@@ -2,3 +2,5 @@ streamlit
 ell-ai
 openai
 python-dotenv
+fpdf
+anthropic 
